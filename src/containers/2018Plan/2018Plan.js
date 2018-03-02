@@ -8,7 +8,7 @@ class Component2018 extends Component {
     const mainStyle = {
       paddingTop: '10vh',
       backgroundColor: '#DDD',
-      height: '80vh'
+      minHeight: '85vh'
     }
     const linkStyle = {
       border: 'solid #3816bf 1px',

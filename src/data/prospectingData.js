@@ -9,7 +9,7 @@ const imgArr = [
         address: "1140 N State St"
       }
     ],
-    bestProscpecting: "Along N State St",
+    bestProspecting: "Along N State St",
     prospects: [
       {
         name: "Pete's Mini Storage",

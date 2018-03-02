@@ -10,7 +10,7 @@ class RevenueRecap extends Component {
       paddingTop: '10vh',
       paddingBottom: '5vh',
       backgroundColor: '#DDD',
-      minHeight: '80vh'
+      minHeight: '85vh'
     }
     const tableStyle = {
       paddingLeft: '0px',

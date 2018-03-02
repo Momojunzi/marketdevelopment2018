@@ -7,7 +7,7 @@ class Challenges2018 extends Component {
     const mainStyle = {
       paddingTop: '10vh',
       backgroundColor: '#DDD',
-      minHeight: '80vh',
+      minHeight: '85vh',
       paddingBottom: '5vh'
     }
     const challengesStyle = {

@@ -11,7 +11,7 @@ class Changes extends Component {
     const mainStyle = {
       paddingTop: '10vh',
       backgroundColor: '#DDD',
-      minHeight: '80vh'
+      minHeight: '85vh'
     }
 
     const list = lostAgents;

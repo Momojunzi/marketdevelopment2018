@@ -13,7 +13,7 @@ class Intro extends Component {
     const mainStyle = {
       paddingTop: '20vh',
       backgroundColor: '#DDD',
-      height: '80vh'
+      minHeight: '85vh'
     }
     const linkStyle = {
       border: 'solid #3816bf 1px',

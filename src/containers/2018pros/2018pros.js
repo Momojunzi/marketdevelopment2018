@@ -9,9 +9,9 @@ class Prospecting extends Component {
     imageCount: 0,
     image: "",
     city: "",
-    competitors: "",
+    competitors: [],
     bestProspecting: "",
-    prospects: ""
+    prospects: []
   }
 
   componentDidMount() {
@@ -20,7 +20,7 @@ class Prospecting extends Component {
     const city = imgArr[imageCount].city;
     const competitors = imgArr[imageCount].competitors;
     const bestProspecting = imgArr[imageCount].bestProspecting;
-    const prospects = imgArr[imageCount].bestProspecting;
+    const prospects = imgArr[imageCount].prospects;
     this.setState({image, city,competitors, bestProspecting, prospects}, console.log(this.state.image));
   }
 
@@ -36,7 +36,7 @@ class Prospecting extends Component {
       const city = imgArr[imageCount].city;
       const competitors = imgArr[imageCount].competitors;
       const bestProspecting = imgArr[imageCount].bestProspecting;
-      const prospects = imgArr[imageCount].bestProspecting;
+      const prospects = imgArr[imageCount].prospects;
       this.setState({image, city, competitors, bestProspecting, prospects})
     });
   }
@@ -53,7 +53,7 @@ class Prospecting extends Component {
       const city = imgArr[imageCount].city;
       const competitors = imgArr[imageCount].competitors;
       const bestProspecting = imgArr[imageCount].bestProspecting;
-      const prospects = imgArr[imageCount].bestProspecting;
+      const prospects = imgArr[imageCount].prospects;
       this.setState({image, city,competitors, bestProspecting, prospects})
     });
   }
