@@ -1,0 +1,157 @@
+[
+ {
+   "Agent": "0522-28",
+   "Commercial revenue": 299274,
+   "Consumer revenue": 565723
+ },
+ {
+   "Agent": "0522-57",
+   "Commercial revenue": 69394,
+   "Consumer revenue": 285505
+ },
+ {
+   "Agent": "0522-60",
+   "Commercial revenue": 10934,
+   "Consumer revenue": 43842
+ },
+ {
+   "Agent": "0522-69",
+   "Commercial revenue": 67826,
+   "Consumer revenue": 284239
+ },
+ {
+   "Agent": "0522-85",
+   "Commercial revenue": 35090,
+   "Consumer revenue": 188579
+ },
+ {
+   "Agent": "0522-86",
+   "Commercial revenue": 35346,
+   "Consumer revenue": 199520
+ },
+ {
+   "Agent": "0522-57",
+   "Commercial revenue": 29352,
+   "Consumer revenue": 59260
+ },
+ {
+   "Agent": "0523-21",
+   "Commercial revenue": 93144,
+   "Consumer revenue": 134812
+ },
+ {
+   "Agent": "0523-27",
+   "Commercial revenue": 25775,
+   "Consumer revenue": 75383
+ },
+ {
+   "Agent": "0523-28",
+   "Commercial revenue": 25818,
+   "Consumer revenue": 144679
+ },
+ {
+   "Agent": "0523-29",
+   "Commercial revenue": 103637,
+   "Consumer revenue": 91624
+ },
+ {
+   "Agent": "0523-30",
+   "Commercial revenue": 11048,
+   "Consumer revenue": 90001
+ },
+ {
+   "Agent": "0118-24",
+   "Commercial revenue": 164028,
+   "Consumer revenue": 215156
+ },
+ {
+   "Agent": "0118-35",
+   "Commercial revenue": 63219,
+   "Consumer revenue": 220507
+ },
+ {
+   "Agent": "0118-39",
+   "Commercial revenue": 55550,
+   "Consumer revenue": 173583
+ },
+ {
+   "Agent": "0118-21",
+   "Commercial revenue": 92276,
+   "Consumer revenue": 143173
+ },
+ {
+   "Agent": "0118-31",
+   "Commercial revenue": 18526,
+   "Consumer revenue": 61902
+ },
+ {
+   "Agent": "0691-25",
+   "Commercial revenue": 74455,
+   "Consumer revenue": 64468
+ },
+ {
+   "Agent": "0691-26",
+   "Commercial revenue": 137869,
+   "Consumer revenue": 151941
+ },
+ {
+   "Agent": "0691-28",
+   "Commercial revenue": 151757,
+   "Consumer revenue": 202414
+ },
+ {
+   "Agent": "0691-30",
+   "Commercial revenue": 49021,
+   "Consumer revenue": 152300
+ },
+ {
+   "Agent": "0691-31",
+   "Commercial revenue": 19158,
+   "Consumer revenue": 37199
+ },
+ {
+   "Agent": "0685-20",
+   "Commercial revenue": 222744,
+   "Consumer revenue": 274001
+ },
+ {
+   "Agent": "0685-37",
+   "Commercial revenue": 43037,
+   "Consumer revenue": 45899
+ },
+ {
+   "Agent": "0685-57",
+   "Commercial revenue": 0,
+   "Consumer revenue": 158361
+ },
+ {
+   "Agent": "0655-28",
+   "Commercial revenue": 163674,
+   "Consumer revenue": 338667
+ },
+ {
+   "Agent": "0655-29",
+   "Commercial revenue": 76918,
+   "Consumer revenue": 252115
+ },
+ {
+   "Agent": "0655-30",
+   "Commercial revenue": 71986,
+   "Consumer revenue": 188879
+ },
+ {
+   "Agent": "0655-26",
+   "Commercial revenue": 29337,
+   "Consumer revenue": 112811
+ },
+ {
+   "Agent": "0655-27",
+   "Commercial revenue": 19809,
+   "Consumer revenue": 27650
+ },
+ {
+   "Agent": "dist. Totals",
+   "Commercial revenue": 2260002,
+   "Consumer revenue": 4984193
+ }
+]
